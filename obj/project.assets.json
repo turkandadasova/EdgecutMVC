@@ -5566,23 +5566,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ll novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\Furqan Service\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ll novbe\\source\\repos\\EdgecuttMVC\\EdgecuttMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Furqan Service\\Desktop\\EdgecutMVC\\EdgecutMVC\\EdgecuttMVC.csproj",
       "projectName": "EdgecuttMVC",
-      "projectPath": "C:\\Users\\ll novbe\\source\\repos\\EdgecuttMVC\\EdgecuttMVC.csproj",
-      "packagesPath": "C:\\Users\\ll novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ll novbe\\source\\repos\\EdgecuttMVC\\obj\\",
+      "projectPath": "C:\\Users\\Furqan Service\\Desktop\\EdgecutMVC\\EdgecutMVC\\EdgecuttMVC.csproj",
+      "packagesPath": "C:\\Users\\Furqan Service\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Furqan Service\\Desktop\\EdgecutMVC\\EdgecutMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ll novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Furqan Service\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5639,7 +5639,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
